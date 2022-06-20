@@ -1,2 +1,2 @@
-# Resume_Scanner
+# PDF_File_Scanner
 A PDF file scanner used to scan resumes in bulk for automation using PyPDF2, textract & nltk libraries in Python. The project is developed for personal automation purpose using Python libraries. The scanner able to scan text and images convert them into readable text. The is still on going where we planning to create it as a web application. It also going to have whitelist filter where we can count the frequencies of words in the PDF. There will be further development to the system soon after we are free. There are lot of features we are planning to add to this system.
